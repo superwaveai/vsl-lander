@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>brand-development-3</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-Icons" transform="translate(-1591.000000, -169.000000)">
+            <g id="Brand-Development" transform="translate(1341.000000, 164.000000)">
+                <g id="brand-development-3" transform="translate(250.000000, 5.000000)">
+                    <rect id="Bound" x="0" y="0" width="80" height="80"></rect>
+                    <g id="Group-143" transform="translate(2.000000, 3.000000)" fill-rule="nonzero">
+                        <polygon id="Path" fill="#191919" points="37.7710061 37.3740549 39.7533841 39.3292683 75.2342378 74.3239024 0.307710366 74.3239024 35.788628 39.3292683"></polygon>
+                        <polygon id="Path" fill="#FFAE00" points="0.307710366 74.3239024 75.2342378 74.3239024 62.0095427 61.2804878 13.532378 61.2804878"></polygon>
+                        <polygon id="Path" fill="#FFAE00" points="37.7710976 37.3758841 0.307875 0.426036585 75.2344207 0.426036585"></polygon>
+                        <polygon id="Path" fill="#191919" points="75.2344207 0.426036585 0.307948171 0.425945122 13.786189 13.7195122 61.7562805 13.7195122"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
